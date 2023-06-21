@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-test
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/21139636-47ee-40aa-ba07-bef440595224/resourceGroups/rg-az400-eshoponweb-test
-  WEBAPP-NAME: az400-webapp-NAME
+  SUBSCRIPTION-ID: 21139636-47ee-40aa-ba07-bef440595224
+  WEBAPP-NAME: az400-webapp-test
 
 
 jobs:
